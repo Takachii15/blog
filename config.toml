@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Takary;"
+theme = "newsroom"
+copyright = "Copyright © 2021, Weru and the Hugo Authors; all rights reserved."
+
+[params]
+  twitter = "https://twitter.com/takachiii_" # twitter handle e.g @weru
