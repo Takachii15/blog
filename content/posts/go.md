@@ -1,5 +1,5 @@
 +++
-title = "(Hu)go Template Primer"
+title = "Test Post"
 description = ""
 tags = [
 "go",
