@@ -1,4 +1,4 @@
-baseURL = 'https://takary-blog.netlify.app/'
+baseURL = "/"
 languageCode = 'en-us'
 title = "Takary;"
 theme = "newsroom"
